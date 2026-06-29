@@ -1,0 +1,6 @@
+{
+  "name": "실시간 OX 퀴즈",
+  "description": "AI 문제 생성 및 시트 복사 불러오기를 지원하는 강사-학생 간 실시간 OX 퀴즈 게임 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
